@@ -1,4 +1,5 @@
-# os_project1 points taken off because:
+# Simple Shell for OS Class
+## Got points taken off because:
 
     - 3 points, no handling of invalid input for input redirection
     - 2 points, input redirection fails for piped commands
